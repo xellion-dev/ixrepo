@@ -11,3 +11,9 @@
         xzname = "session-stay-latest.tar.xz"
         version = "1.0"
         foldername = "session-stay-" #SCRIPT ADDS VERSION
+    [packages.hsetroot]
+        # MUST BE TAR.XZ
+        url = "https://ixrepo.pages.dev/arfbones/hsetroot-latest.tar.xz"
+        xzname = "hsetroot-latest.tar.xz"
+        version = "1.0.2"
+        foldername = "hsetroot-" #SCRIPT ADDS VERSION
