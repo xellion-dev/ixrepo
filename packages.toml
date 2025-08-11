@@ -1,8 +1,13 @@
 [packages]
     [packages.tar]
-        # MUST BE TAR.XZ!!!!!
+        # MUST BE TAR.XZ
         url = "https://ixrepo.pages.dev/arfbones/tar-latest.tar.xz"
         xzname = "tar-latest.tar.xz"
         version = "1.35"
-        foldername = "tar-" #SCRIPT ADDS VERSION
-
+        foldername = "tar-" #SCRIPT ADDS VERSION\
+    [packages.session-stay]
+        # MUST BE TAR.XZ
+        url = "https://ixrepo.pages.dev/arfbones/session-stay-latest.tar.xz"
+        xzname = "session-stay-latest.tar.xz"
+        version = "1.0"
+        foldername = "session-stay-" #SCRIPT ADDS VERSION
