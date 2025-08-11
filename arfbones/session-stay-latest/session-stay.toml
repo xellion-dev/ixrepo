@@ -1,0 +1,6 @@
+[session-stay]
+    install-location ="/bin"
+    version ="1.0"
+    [session-stay.binaries]
+        mainexec = "binary/session-stay"
+        dependencies = "glibc"
