@@ -1,6 +1,6 @@
-[session-stay]
+[hsetroot]
     install-location ="/bin"
     version ="1.0.2"
-    [session-stay.binaries]
+    [hsetroot]
         mainexec = "binary/hsetroot"
         dependencies = "glibc"
