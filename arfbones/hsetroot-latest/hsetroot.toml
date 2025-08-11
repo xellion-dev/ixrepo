@@ -1,6 +1,6 @@
 [hsetroot]
     install-location ="/bin"
     version ="1.0.2"
-    [hsetroot.bins]
+    [hsetroot.binaries]
         mainexec = "binary/hsetroot"
         dependencies = "glibc"
