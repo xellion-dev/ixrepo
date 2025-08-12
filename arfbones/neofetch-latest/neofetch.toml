@@ -1,0 +1,6 @@
+[neofetch]
+    install-location ="/bin"
+    version ="7.1.0"
+    [neofetch.binaries]
+        mainexec = "binary/neofetch"
+        dependencies = "glibc"
