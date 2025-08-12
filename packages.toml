@@ -23,3 +23,9 @@
         xzname = "neofetch-latest.tar.xz"
         version = "7.1.0"
         foldername = "neofetch-" #SCRIPT ADDS VERSION
+    [packages.neofetch]
+        # MUST BE TAR.XZ
+        url = "https://ixrepo.pages.dev/arfbones/nano-latest.tar.xz"
+        xzname = "nano-latest.tar.xz"
+        version = "8.3"
+        foldername = "nano-" #SCRIPT ADDS VERSION

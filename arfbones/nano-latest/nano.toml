@@ -1,0 +1,6 @@
+[nano]
+    install-location ="/bin"
+    version ="8.3"
+    [nano.binaries]
+        mainexec = "binary/nano"
+        dependencies = "glibc"
